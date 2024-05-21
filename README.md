@@ -1,1 +1,1 @@
-almacenar archivo en memoria interna
+#Almacenar archivo en memoria interna 📋
